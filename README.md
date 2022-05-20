@@ -1,1 +1,1 @@
-# .github
+# Repositórios oficiais da LegendaryCorp.
