@@ -1,0 +1,1 @@
+# Repositórios oficiais da LegendaryCorp.
